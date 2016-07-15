@@ -138,13 +138,6 @@ div.subTitle {
   .col-md-12 {
     width: 100%;
   }
-  #p1,#p2{
-    right: -80%;
-  }
-  #p3
-  {
-    right: -90%;
-  }
 }
 /********** Small devices only **********/
 @media (max-width: 767px) {
@@ -189,7 +182,4 @@ div.subTitle {
   .col-sm-12 {
     width: 100%;
   }
-  #p1,#p2,#p3{
-  right: -80%;
-}
 }
